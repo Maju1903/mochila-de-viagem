@@ -130,7 +130,7 @@ html {
     font-weight: 400;
 }
 
-@media(max-width: 390px) {
+@media(max-width: 600px) {
     .principal {
         flex-grow: 1;
         flex-basis: auto;
